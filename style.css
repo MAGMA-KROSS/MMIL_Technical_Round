@@ -1,0 +1,12 @@
+.head{
+    background: #264653;
+    height: 35px;
+    width: 100%;
+
+}
+body {
+    margin: 0;
+    height: 100vh;
+    padding:0;
+    overflow: hidden;
+  }
